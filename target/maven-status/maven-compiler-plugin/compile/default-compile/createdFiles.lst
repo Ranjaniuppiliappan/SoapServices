@@ -1,0 +1,9 @@
+com\ibm\training\PersonEndpoint.class
+com\ibm\training\Config.class
+org\example\person\package-info.class
+org\example\person\ObjectFactory.class
+org\example\person\PersonDetailsRequest.class
+org\example\person\PersonDetailsResponse.class
+org\example\person\Person.class
+com\ibm\training\WebsoapexampleApplication.class
+com\ibm\training\PersonRepository.class
