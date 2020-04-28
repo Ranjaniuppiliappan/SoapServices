@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ibm.training.WebsoapexampleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.214 s - in com.ibm.training.WebsoapexampleApplicationTests
